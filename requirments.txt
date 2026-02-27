@@ -1,15 +1,8 @@
-# Data Processing & Analysis
+
 pandas
 numpy
-
-# Machine Learning
+seaborn
 scikit-learn
-
-# MLOps
 mlflow
-
-# Notebook & Environment
 ipykernel
-
-# Web Deployment (for your app.py)
 flask
