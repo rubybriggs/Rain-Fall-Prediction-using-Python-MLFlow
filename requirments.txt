@@ -1,0 +1,15 @@
+# Data Processing & Analysis
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# MLOps
+mlflow
+
+# Notebook & Environment
+ipykernel
+
+# Web Deployment (for your app.py)
+flask
